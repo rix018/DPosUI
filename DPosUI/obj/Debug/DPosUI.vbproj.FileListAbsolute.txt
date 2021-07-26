@@ -1,0 +1,10 @@
+C:\VBNet\DPosUI\DPosUI\bin\Debug\DPosUI.pdb
+C:\VBNet\DPosUI\DPosUI\bin\Debug\DPosUI.xml
+C:\VBNet\DPosUI\DPosUI\obj\Debug\DPosUI.Lapagan.resources
+C:\VBNet\DPosUI\DPosUI\obj\Debug\DPosUI.Resources.resources
+C:\VBNet\DPosUI\DPosUI\obj\Debug\DPosUI.vbproj.GenerateResource.cache
+C:\VBNet\DPosUI\DPosUI\obj\Debug\DPosUI.vbproj.CoreCompileInputs.cache
+C:\VBNet\DPosUI\DPosUI\obj\Debug\DPosUI.xml
+C:\VBNet\DPosUI\DPosUI\obj\Debug\DPosUI.pdb
+C:\VBNet\DPosUI\DPosUI\bin\Debug\DPosUI.dll
+C:\VBNet\DPosUI\DPosUI\obj\Debug\DPosUI.dll
